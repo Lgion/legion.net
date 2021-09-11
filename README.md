@@ -2,9 +2,12 @@
 legion.net est une ruche-en-ligne de projets web.  
 Constitué de 7 groupes, elle fonction en 3 fois 8h pour une révolution de 24h de travail continue, 5 jours sur 7, et ce pendant toute la durée de développement du projet, souvent proche ou égale à 3 mois.  
 Hors de la période de prodution, tous le personnel est en formation pour grandir en compétences.
+# Pourquoi nous devons tous nous serrer les coudes ??
+# Parceque nous sommes tous responsables !!
+# Sans jamais mettre en ligne de mire quelconque culpabilité autrui ou personnelle.
 
 
-##Equipes
+## Equipes
 * 4 équipes internes
 * 1 équipe administrative
 * 1 équipe de prestataire de services
@@ -18,7 +21,7 @@ réalisent tous le travaille promulgué et publié par l'équipe admin durant la
 ## Les week-end(samedi...et rarement mais des fois aussi dimanche)
 * 1 équipe interne, "larbin de l'admin"
 * l'équipe administrative inspect le travail de la semaine, propose des correctifs, planifie les besoins futurs et évalue le travail à venir. Enfin cette équipe supervise le travail de l'équipe de prestataires de servise
-* l'équipe de prestataires de services réalise les tâches auxquelles les a assigné à réaliser
+* l'équipe de prestataires de services réalise les tâches auxquelles alle a été assigné à réaliser
 
 
 ## Vulgarisation
