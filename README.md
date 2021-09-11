@@ -4,7 +4,7 @@ Constitué de 7 groupes, elle fonction en 3 fois 8h pour une révolution de 24h 
 Hors de la période de prodution, tous le personnel est en formation pour grandir en compétences.
 # Pourquoi nous devons tous nous serrer les coudes ??
 # Parceque nous sommes tous responsables !!
-# Sans jamais mettre en ligne de mire quelconque culpabilité autrui ou personnelle.
+## Sans jamais mettre en ligne de mire quelconque culpabilité autrui ou personnelle.
 
 
 ## Equipes
